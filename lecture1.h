@@ -1,0 +1,7 @@
+
+#ifndef MAKEFILE_OSU_VIDEO_LECTURE1_H
+#define MAKEFILE_OSU_VIDEO_LECTURE1_H
+
+void printLecture1();
+
+#endif //MAKEFILE_OSU_VIDEO_LECTURE1_H

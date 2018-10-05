@@ -1,0 +1,8 @@
+
+#ifndef MAKEFILE_OSU_VIDEO_FUNCTIONS_H
+#define MAKEFILE_OSU_VIDEO_FUNCTIONS_H
+
+
+void printFromFunctions();
+
+#endif //MAKEFILE_OSU_VIDEO_FUNCTIONS_H
